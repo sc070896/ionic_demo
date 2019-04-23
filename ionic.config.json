@@ -1,0 +1,7 @@
+{
+  "name": "app.zengot",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
