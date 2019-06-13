@@ -1,1 +1,1 @@
-# zingot
+# ionic
